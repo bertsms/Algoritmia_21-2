@@ -15,6 +15,6 @@ print("Mis Apellidos son: " + apellidos)
 # Edad
 edad = 0
 print("Edad:", edad)
-edad = int(input("Cual es tu edad? "))  # "26" -> 21
+edad = int(input("Cual es tu edad? "))  # "26" -> 26
 print("Edad:", edad)
 print("Edad + 5:", edad + 5)
